@@ -1,4 +1,4 @@
-# Doğrusal Hat İzleyen Otonom Araç (Autonomous AGV) 🚗🤖
+# Çizgi İzleyen Otonom Araç (Autonomous AGV) 🚗🤖
 
 An advanced autonomous line-following vehicle (AGV) engineered with a hardware-level safety protocol, a Python-based desktop telemetry dashboard, and a Flutter Android companion app.
 
@@ -27,7 +27,7 @@ Developed as an engineering project at **Bursa Uludağ University (BUÜ)**, this
 
 The entire hardware topology has been meticulously mapped. All software pin definitions match the physical layout below.
 
-![Circuit Diagram](Hardware_Design/Untitled_Sketch_2_bb.png)
+![Circuit Diagram](Hardware_Design/Circuit%20Diagram.png)
 
 ## 💻 Software Architecture & Repositories
 
